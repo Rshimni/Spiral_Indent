@@ -1,0 +1,8 @@
+start_angle:360
+angle_step:1
+end_angle:1080
+ratio:0.7957747154594768
+divide:138
+spiral:archimedean
+roughness_amp:0.4
+thickness:1.5
